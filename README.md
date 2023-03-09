@@ -1,6 +1,6 @@
 Usage:
 ```
-<repositories>
+    <repositories>
         <repository>
             <id>jialtang-github</id>
             <name>The Maven Repository on Github</name>
